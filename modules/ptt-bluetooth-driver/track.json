@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ptt-bluetooth-driver",
+    "name": "PTT Blueooth Driver",
+    "version": "v1.1.1",
+    "version_code": 100,
+    "author": "gotakllc",
+    "description": "Ensure this is on if you're using Bluetooth Comms .Start PTT-Driver and BTMono on boot to ensure all PTT traffic thru BT is sent using the BT audio."
+  },
+  "versions": [
+    {
+      "timestamp": 17218435833N,
+      "version": "v1.1.1 (100)",
+      "version_code": 100,
+      "zip_file": "100.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}

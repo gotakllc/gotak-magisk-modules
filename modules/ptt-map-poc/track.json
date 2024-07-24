@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ptt-map-poc",
+    "name": "PTT-Map-POC",
+    "version": "v1.2.3",
+    "version_code": 300,
+    "author": "gotakllc",
+    "description": "Commercial POC 3.5mm and USB C hand mics and headsets PTTs. PRYME etc. Supports commercial devices for PTT."
+  },
+  "versions": [
+    {
+      "timestamp": 17218435833N,
+      "version": "v1.2.3 (300)",
+      "version_code": 300,
+      "zip_file": "300.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}

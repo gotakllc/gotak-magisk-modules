@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ptt-keepalive",
+    "name": "PTT Intercom Keep Alive",
+    "version": "v1.1",
+    "version_code": 100,
+    "author": "gotakllc",
+    "description": "Keep the intercom app alive persistently after closing and reboots."
+  },
+  "versions": [
+    {
+      "timestamp": 17218435833N,
+      "version": "v1.1 (100)",
+      "version_code": 100,
+      "zip_file": "100.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}

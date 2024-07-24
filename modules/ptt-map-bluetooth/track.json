@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ptt-map-bluetooth",
+    "name": "PTT-Map-Bluetooth",
+    "version": "v4.2",
+    "version_code": 300,
+    "author": "gotakllc",
+    "description": "Bluetooth intents using PTT Driver app or native for Retevis HWN001. See PTT-Driver for ptt-driver applicable devices."
+  },
+  "versions": [
+    {
+      "timestamp": 17218435833N,
+      "version": "v4.2 (300)",
+      "version_code": 300,
+      "zip_file": "300.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}

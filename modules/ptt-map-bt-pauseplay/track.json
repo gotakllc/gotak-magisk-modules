@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ptt-map-bt-pauseplay",
+    "name": "PTT-Map-BT-PausePlay",
+    "version": "v1.0.1",
+    "version_code": 300,
+    "author": "gotakllc",
+    "description": "Openshokz,any BT with pause/play button etc. Transforms bluetooth pause/play button to be ptt up/down respectively. Tap once for ptt up, tap again for ptt down. USE WITH PTT-BLUETOOTH MODULE."
+  },
+  "versions": [
+    {
+      "timestamp": 17218435833N,
+      "version": "v1.0.1 (300)",
+      "version_code": 300,
+      "zip_file": "300.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}
