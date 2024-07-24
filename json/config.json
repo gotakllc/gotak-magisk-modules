@@ -5,12 +5,12 @@
     "timestamp": true
   },
   "repository": {
-    "name": "Sanmer Magisk Repo (demo)",
+    "name": "GoTAK EUD Magisk Modules",
     "metadata": {
-      "homepage": "https://demo-repo.sanmer.app"
+      "homepage": "https://getgotak.com"
     },
     "setting": {
-      "base_url": "https://demo-repo.sanmer.app",
+      "base_url": "https://raw.githubusercontent.com/gotakllc/gotak-magisk-modules/main",
       "keep_size": 6
     }
   },
