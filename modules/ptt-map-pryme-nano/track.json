@@ -1,16 +1,16 @@
 {
   "module": {
-    "id": "ptt-keepalive",
-    "name": "PTT Intercom Keep Alive",
-    "version": "v1.1",
+    "id": "ptt-map-pryme-nano",
+    "name": "PTT-Map-Pryme-Nano",
+    "version": "v1",
     "version_code": 100,
     "author": "gotakllc",
-    "description": "Keep the intercom app alive persistently after closing and reboots."
+    "description": "Map Pryme Nano to Intercom App."
   },
   "versions": [
     {
       "timestamp": 17225331763,
-      "version": "v1.1 (100)",
+      "version": "v1 (100)",
       "version_code": 100,
       "zip_file": "100.zip",
       "changelog": "changelog.md"
