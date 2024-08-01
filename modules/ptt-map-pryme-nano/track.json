@@ -2,17 +2,17 @@
   "module": {
     "id": "ptt-map-pryme-nano",
     "name": "PTT-Map-Pryme-Nano",
-    "version": "v1.1",
-    "version_code": 101,
+    "version": "v1.2",
+    "version_code": 102,
     "author": "gotakllc",
     "description": "Map Pryme Nano to Intercom App."
   },
   "versions": [
     {
-      "timestamp": 17225337273,
-      "version": "v1.1 (101)",
-      "version_code": 101,
-      "zip_file": "101.zip",
+      "timestamp": 17225350753,
+      "version": "v1.2 (102)",
+      "version_code": 102,
+      "zip_file": "102.zip",
       "changelog": "changelog.md"
     }
   ]
