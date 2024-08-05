@@ -1,6 +1,6 @@
 {
   "name": "GoTAK EUD Modules",
-  "timestamp": 17228401113,
+  "timestamp": 17228406363,
   "metadata": {
     "homepage": "https://getgotak.com"
   },
@@ -19,7 +19,7 @@
   },
   "versions": [
     {
-      "timestamp": 17228401103,
+      "timestamp": 17228406363,
       "version": "v1.1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-bluetooth-driver/100.zip",
@@ -40,7 +40,7 @@
   },
   "versions": [
     {
-      "timestamp": 17228401113,
+      "timestamp": 17228406363,
       "version": "v1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-keepalive/100.zip",
@@ -61,7 +61,7 @@
   },
   "versions": [
     {
-      "timestamp": 17228401113,
+      "timestamp": 17228406363,
       "version": "v1.0.1 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bt-pauseplay/300.zip",
@@ -82,7 +82,7 @@
   },
   "versions": [
     {
-      "timestamp": 17228401113,
+      "timestamp": 17228406363,
       "version": "v4.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bluetooth/300.zip",
@@ -103,7 +103,7 @@
   },
   "versions": [
     {
-      "timestamp": 17228401113,
+      "timestamp": 17228406363,
       "version": "v4.1.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-headset/300.zip",
@@ -113,8 +113,8 @@
 },{
   "id": "ptt-map-poc",
   "name": "PTT-Map-POC",
-  "version": "v1.2.5",
-  "version_code": 302,
+  "version": "v1.2.6",
+  "version_code": 303,
   "author": "gotakllc",
   "description": "Universal POC 3.5mm and USB C hand mics and headsets PTTs. Pryme devices including Pryme Nano etc. Pryme SPM-4200-USBC, Pryme NANO-99A-BF, any POC device that triggers KEY_PAUSEPLAY DOWN and UP, works on a toggle.",
   "metadata": {
@@ -124,10 +124,10 @@
   },
   "versions": [
     {
-      "timestamp": 17228401113,
-      "version": "v1.2.5 (302)",
-      "version_code": 302,
-      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-poc/302.zip",
+      "timestamp": 17228406363,
+      "version": "v1.2.6 (303)",
+      "version_code": 303,
+      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-poc/303.zip",
       "changelog": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-poc/changelog.md"
     }
   ]

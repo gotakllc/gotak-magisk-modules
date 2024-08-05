@@ -2,17 +2,17 @@
   "module": {
     "id": "ptt-map-poc",
     "name": "PTT-Map-POC",
-    "version": "v1.2.5",
-    "version_code": 302,
+    "version": "v1.2.6",
+    "version_code": 303,
     "author": "gotakllc",
     "description": "Universal POC 3.5mm and USB C hand mics and headsets PTTs. Pryme devices including Pryme Nano etc. Pryme SPM-4200-USBC, Pryme NANO-99A-BF, any POC device that triggers KEY_PAUSEPLAY DOWN and UP, works on a toggle."
   },
   "versions": [
     {
-      "timestamp": 17228401113,
-      "version": "v1.2.5 (302)",
-      "version_code": 302,
-      "zip_file": "302.zip",
+      "timestamp": 17228406363,
+      "version": "v1.2.6 (303)",
+      "version_code": 303,
+      "zip_file": "303.zip",
       "changelog": "changelog.md"
     }
   ]
