@@ -87,18 +87,6 @@
   "setting": {
     "disabled": false
   }
-},{
-  "id": "ptt-map-pryme-nano",
-  "kind": "update-json",
-  "provider": "https://raw.githubusercontent.com/gotakllc/gotak-magisk-modules/main/modules/ptt-map-pryme-nano/track.json",
-  "metadata": {
-    "license": "GPL-3.0",
-    "source": "https://github.com/gotakllc",
-    "support": "https://getgotak.com"
-  },
-  "setting": {
-    "disabled": false
-  }
 }
   ]
 }
