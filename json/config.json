@@ -16,6 +16,18 @@
   },
   "modules": [
     {
+  "id": "kiwix_exfat_watchdog",
+  "kind": "update-json",
+  "provider": "https://raw.githubusercontent.com/gotakllc/gotak-magisk-modules/main/modules/kiwix_exfat_watchdog/track.json",
+  "metadata": {
+    "license": "GPL-3.0",
+    "source": "https://github.com/gotakllc",
+    "support": "https://getgotak.com"
+  },
+  "setting": {
+    "disabled": false
+  }
+},{
   "id": "ptt-bluetooth-driver",
   "kind": "update-json",
   "provider": "https://raw.githubusercontent.com/gotakllc/gotak-magisk-modules/main/modules/ptt-bluetooth-driver/track.json",
