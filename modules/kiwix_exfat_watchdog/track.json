@@ -1,18 +1,18 @@
 {
   "module": {
     "id": "kiwix_exfat_watchdog",
-    "name": "Kiwix ExFAT SDCard Watchdog",
-    "version": "1.0",
-    "version_code": 1,
+    "name": "Kiwix Exfat Watchdog",
+    "version": "1.1",
+    "version_code": 2,
     "author": "GoTAK LLC",
-    "description": "Automatically mounts exFAT SD cards and binds them to specific locations for Kiwix"
+    "description": "Automatically mounts exFAT SD + USB SSD and binds them to specific locations for Kiwix."
   },
   "versions": [
     {
-      "timestamp": 17271828963,
-      "version": "1.0 (1)",
-      "version_code": 1,
-      "zip_file": "1.zip",
+      "timestamp": 17271835823,
+      "version": "1.1 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
       "changelog": "changelog.md"
     }
   ]
