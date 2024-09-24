@@ -1,15 +1,15 @@
 {
   "name": "GoTAK EUD Modules",
-  "timestamp": 17271855223,
+  "timestamp": 17272217833,
   "metadata": {
     "homepage": "https://getgotak.com"
   },
   "modules": [
     {
   "id": "kiwix_exfat_watchdog",
-  "name": "Kiwix Exfat Watchdog",
-  "version": "1.4",
-  "version_code": 5,
+  "name": "Survival Data Scripts",
+  "version": "1.5",
+  "version_code": 6,
   "author": "GoTAK LLC",
   "description": "Automatically mounts exFAT SD + USB SSD and binds them to specific locations for Kiwix.",
   "metadata": {
@@ -19,10 +19,10 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
-      "version": "1.4 (5)",
-      "version_code": 5,
-      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/kiwix_exfat_watchdog/5.zip",
+      "timestamp": 17272217823,
+      "version": "1.5 (6)",
+      "version_code": 6,
+      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/kiwix_exfat_watchdog/6.zip",
       "changelog": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/kiwix_exfat_watchdog/changelog.md"
     }
   ]
@@ -40,7 +40,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v1.1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-bluetooth-driver/100.zip",
@@ -61,7 +61,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-keepalive/100.zip",
@@ -82,7 +82,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v1.0.1 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bt-pauseplay/300.zip",
@@ -103,7 +103,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v4.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bluetooth/300.zip",
@@ -124,7 +124,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v4.1.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-headset/300.zip",
@@ -145,7 +145,7 @@
   },
   "versions": [
     {
-      "timestamp": 17271855223,
+      "timestamp": 17272217833,
       "version": "v1.2.6 (303)",
       "version_code": 303,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-poc/303.zip",

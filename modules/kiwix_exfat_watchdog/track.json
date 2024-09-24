@@ -1,18 +1,18 @@
 {
   "module": {
     "id": "kiwix_exfat_watchdog",
-    "name": "Kiwix Exfat Watchdog",
-    "version": "1.4",
-    "version_code": 5,
+    "name": "Survival Data Scripts",
+    "version": "1.5",
+    "version_code": 6,
     "author": "GoTAK LLC",
     "description": "Automatically mounts exFAT SD + USB SSD and binds them to specific locations for Kiwix."
   },
   "versions": [
     {
-      "timestamp": 17271855223,
-      "version": "1.4 (5)",
-      "version_code": 5,
-      "zip_file": "5.zip",
+      "timestamp": 17272217823,
+      "version": "1.5 (6)",
+      "version_code": 6,
+      "zip_file": "6.zip",
       "changelog": "changelog.md"
     }
   ]
