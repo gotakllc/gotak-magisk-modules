@@ -2,17 +2,17 @@
   "module": {
     "id": "survival_data_mount",
     "name": "Survival Data Mount",
-    "version": "1.9",
-    "version_code": 10,
+    "version": "1.11",
+    "version_code": 12,
     "author": "GoTAK LLC",
     "description": "Automatically mounts exFAT SD + USB SSD and binds them to specific locations for Kiwix."
   },
   "versions": [
     {
-      "timestamp": 17272294863,
-      "version": "1.9 (10)",
-      "version_code": 10,
-      "zip_file": "10.zip",
+      "timestamp": 17272299663,
+      "version": "1.11 (12)",
+      "version_code": 12,
+      "zip_file": "12.zip",
       "changelog": "changelog.md"
     }
   ]
