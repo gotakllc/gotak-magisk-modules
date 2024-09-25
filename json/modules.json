@@ -1,11 +1,32 @@
 {
   "name": "GoTAK EUD Modules",
-  "timestamp": 17272252683,
+  "timestamp": 17272294863,
   "metadata": {
     "homepage": "https://getgotak.com"
   },
   "modules": [
     {
+  "id": "openeuicc",
+  "name": "OpenEUICC",
+  "version": "v04",
+  "version_code": 4,
+  "author": "AndroPlus",
+  "description": "Add OpenEUICC for eSIM",
+  "metadata": {
+    "license": "GPL-3.0",
+    "source": "https://github.com/gotakllc",
+    "support": "https://getgotak.com"
+  },
+  "versions": [
+    {
+      "timestamp": 17272294853,
+      "version": "v04 (4)",
+      "version_code": 4,
+      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/openeuicc/4.zip",
+      "changelog": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/openeuicc/changelog.md"
+    }
+  ]
+},{
   "id": "ptt-bluetooth-driver",
   "name": "PTT Blueooth Driver",
   "version": "v1.1.1",
@@ -19,7 +40,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252673,
+      "timestamp": 17272294853,
       "version": "v1.1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-bluetooth-driver/100.zip",
@@ -40,7 +61,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252673,
+      "timestamp": 17272294863,
       "version": "v1.1 (100)",
       "version_code": 100,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-keepalive/100.zip",
@@ -61,7 +82,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252683,
+      "timestamp": 17272294863,
       "version": "v1.0.1 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bt-pauseplay/300.zip",
@@ -82,7 +103,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252683,
+      "timestamp": 17272294863,
       "version": "v4.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-bluetooth/300.zip",
@@ -103,7 +124,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252683,
+      "timestamp": 17272294863,
       "version": "v4.1.2 (300)",
       "version_code": 300,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-headset/300.zip",
@@ -124,7 +145,7 @@
   },
   "versions": [
     {
-      "timestamp": 17272252683,
+      "timestamp": 17272294863,
       "version": "v1.2.6 (303)",
       "version_code": 303,
       "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/ptt-map-poc/303.zip",
@@ -134,8 +155,8 @@
 },{
   "id": "survival_data_mount",
   "name": "Survival Data Mount",
-  "version": "1.8",
-  "version_code": 9,
+  "version": "1.9",
+  "version_code": 10,
   "author": "GoTAK LLC",
   "description": "Automatically mounts exFAT SD + USB SSD and binds them to specific locations for Kiwix.",
   "metadata": {
@@ -145,10 +166,10 @@
   },
   "versions": [
     {
-      "timestamp": 17272252683,
-      "version": "1.8 (9)",
-      "version_code": 9,
-      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/survival_data_mount/9.zip",
+      "timestamp": 17272294863,
+      "version": "1.9 (10)",
+      "version_code": 10,
+      "zip_url": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/survival_data_mount/10.zip",
       "changelog": "https://github.com/gotakllc/gotak-magisk-modules/raw/main/modules/survival_data_mount/changelog.md"
     }
   ]

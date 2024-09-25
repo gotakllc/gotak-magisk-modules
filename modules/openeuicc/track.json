@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "openeuicc",
+    "name": "OpenEUICC",
+    "version": "v04",
+    "version_code": 4,
+    "author": "AndroPlus",
+    "description": "Add OpenEUICC for eSIM"
+  },
+  "versions": [
+    {
+      "timestamp": 17272294853,
+      "version": "v04 (4)",
+      "version_code": 4,
+      "zip_file": "4.zip",
+      "changelog": "changelog.md"
+    }
+  ]
+}
